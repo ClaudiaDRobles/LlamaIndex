@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3ed8e591534ce16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec34cee5dab4b2aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a36aacbac920fb91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qué es LlamaIndex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a9b64d63850b5cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como Funciona LlamaIndex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be82b21d9339f532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Qué es LlamaIndex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdccd50081ccc613",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0de5f95681df3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88d83622fdf7934f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "1d8dea2f81e132de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4096e79db7b5c388",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fa720df89ccb587",
+    "type": "split",
+    "children": [
+      {
+        "id": "f930826583e886dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "951c0974bfcd334c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Qué es LlamaIndex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efc2a59d3b20e90b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Qué es LlamaIndex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50bc45fd4e25191a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cb2e8e7688ea4b6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Qué es LlamaIndex.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "be82b21d9339f532",
+  "lastOpenFiles": [
+    "Llevar a la práctica.md",
+    "Qué es LlamaIndex.md",
+    "Como Funciona LlamaIndex.md",
+    "Pasted image 20241213200343.png",
+    "Pasted image 20241213200329.png",
+    "Pasted image 20241213195812.png",
+    "Pasted image 20241213195743.png",
+    "Pasted image 20241213195358.png",
+    "Pasted image 20241212150356.png",
+    "Pasted image 20241210212642.png",
+    "Pasted image 20241210212828.png",
+    "Pasted image 20241212105342.png",
+    "Pasted image 20241210203707.png",
+    "Bienvenido.md",
+    "LlamaIndex"
+  ]
+}
